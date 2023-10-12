@@ -29,7 +29,7 @@ To run the Animal Voting App locally, follow these steps:
 
 You need to have vs-code, git installed in your machine ,db.json server installed and postman
 
-git clone https://github.com/Sammybett-bit/week-2-code-challenge
+git clone https://github.com/emanuel-kipngeno/week-3
 
 git add .
 
